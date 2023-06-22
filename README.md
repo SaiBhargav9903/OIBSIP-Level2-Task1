@@ -1,2 +1,1 @@
-# OIBSIP-Level2-Task1
-OIBSIP-Level2-Task1-Calculator
+# OIBSIP-Level2-Task1-Calculator
